@@ -20,7 +20,7 @@ time.sleep(5)
 
 #getting results
 results = Browser.find_elements(By.XPATH, "//a[@id='video-title']")
-#waiting 5 seconds and then click on the second video
+#waiting 5 seconds and then click on the first video
 Browser.implicitly_wait(5)
 results[0].click()
 time.sleep(100)
