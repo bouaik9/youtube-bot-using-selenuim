@@ -3,7 +3,7 @@
 
 
 Input:--> Title of the video
-Output:--> playing the first video (from youtube resluts) on the browser 
+Output:--> playing the first video (from youtube results) on the browser 
 
 
 Prerequisites :
