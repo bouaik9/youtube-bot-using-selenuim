@@ -2,8 +2,8 @@
                                    
 
 
-Input:--> Title if the video
-Output:--> playing the first video on the browser 
+Input:--> Title of the video
+Output:--> playing the first video (from youtube resluts) on the browser 
 
 
 Prerequisites :
