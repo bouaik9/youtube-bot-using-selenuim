@@ -1,4 +1,4 @@
-                                   This script is used to search for videos and play one of them .
+                                   This script is used to search for videos and play the first one .
                                    
 
 
